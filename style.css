@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    background-color: green;
+    color: #fff;
+    margin: 15px 20px 13px 14px;
+    padding: 18px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+button:hover{
+    color: green;
+    background-color: orange;
+}
