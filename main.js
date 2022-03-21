@@ -46,6 +46,8 @@ function divYarat() {
     newDiv.style.width=`170px`;
     newDiv.style.height='145px';
     newDiv.style.position='relative';
+    newDiv.style.position='absolute';
+    newDiv.style.maxHeight='100px'
     
     newDiv.style.backgroundColor=`${randomColors()}`;
    
